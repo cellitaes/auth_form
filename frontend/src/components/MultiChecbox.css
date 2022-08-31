@@ -1,0 +1,15 @@
+.gender-wrapper label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.gender-wrapper label ~ div {
+  display: inline-block;
+  width: 30%;
+}
+
+.gender-wrapper--invalid label ~ div label,
+.gender-wrapper--invalid p {
+  color: red;
+}

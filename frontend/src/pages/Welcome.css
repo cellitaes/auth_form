@@ -1,0 +1,15 @@
+.welcome {
+  margin: 20rem auto;
+}
+
+.welcome p {
+  text-align: center;
+  color: white;
+}
+
+.welcome p:nth-of-type(1) {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-bottom: 1rem;
+  color: #13d447;
+}

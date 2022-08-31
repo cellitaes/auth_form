@@ -1,0 +1,12 @@
+.auth-form {
+  margin: 0 auto;
+  width: 75%;
+  margin-top: 6rem;
+}
+
+.authentication {
+  width: 90%;
+  max-width: 32rem;
+  margin: 7rem auto;
+  text-align: center;
+}
